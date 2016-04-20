@@ -9,6 +9,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-    <h1>This is index.jsp.</h1>
+    <h1>This is index.jsp. Test</h1>
 </body>
 </html>
